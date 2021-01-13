@@ -1,4 +1,4 @@
-package superadd
+package gomod
 
 //v1
 func Add(a, b int) (c int) {
